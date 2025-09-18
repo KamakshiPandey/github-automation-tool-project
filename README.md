@@ -19,4 +19,5 @@ A Python-based automation tool that streamlines repository management by integra
 ## Tech Stack
 
 - **Language:** Python  
-- **DevOps Tools:**
+- **DevOps Tools:** GitHub Actions (CI/CD automation), Git (version control), Slack API (notifications), GitHub API (automation for PRs and issues), Python-dotenv (secure environment variable management)
+
